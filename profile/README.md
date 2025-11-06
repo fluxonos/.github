@@ -9,4 +9,9 @@
 
 ---
 
-### What is Fluxonos?
+# 🚀 Our Key Repositories
+
+| Project | Description | Language |
+|----------|--------------|-----------|
+| [fluxonos-operator](https://github.com/fluxonos/fluxonos-operator) | fluxonos-operator nodejs | TypeScript
+| [fluxonos-api-service](https://github.com/fluxonos/fluxonos-api-service) | fluxonos-api-service nestjs | TypeScript
