@@ -15,3 +15,5 @@
 |----------|--------------|-----------|
 | [fluxonos-operator](https://github.com/fluxonos/fluxonos-operator) | fluxonos-operator nodejs | TypeScript
 | [fluxonos-api-service](https://github.com/fluxonos/fluxonos-api-service) | fluxonos-api-service nestjs | TypeScript
+| [fluxonos-dto](https://github.com/fluxonos/fluxonos-dto) | fluxonos-dto package for backend and frontend | TypeScript
+
